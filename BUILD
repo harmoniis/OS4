@@ -14,7 +14,7 @@
 
 load("@harmonia/build", "hagent")
 
-my_binary(
-    name = "hangent",  
+hagent(
+    name = "hagent",  
    
 )
