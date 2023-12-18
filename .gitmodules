@@ -1,0 +1,9 @@
+[submodule "freebsd"]
+	path = freebsd
+	url = git@github.com:freebsd/freebsd-src.git
+[submodule "netbsd"]
+	path = netbsd
+	url = git@github.com:NetBSD/src.git
+[submodule "harmonia"]
+	path = harmonia
+	url = git@github.com:harmoniis/Harmonia.git
