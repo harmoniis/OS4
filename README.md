@@ -1,5 +1,5 @@
 ```
-“People who are really serious about AGI should make their own hardware and software”
+“People who are really serious about AGI should build their own hardware and software”
 ― Alan Kay mashup
 ```
 
